@@ -24,7 +24,7 @@ var_dump($numbers);
 /* ------ Associative Arrays ----- */
 
 /*
-  Associative arrays allow us to use named keys to identify values.
+  Associative arrays allow us to use named keys to identify values. (Like Dictionaries)
 */
 
 $colors = [

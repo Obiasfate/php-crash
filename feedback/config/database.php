@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'brad');
-define('DB_PASS', '123456');
+define('DB_USER', 'root');
+define('DB_PASS', '');
 define('DB_NAME', 'php_dev');
 
 // Create connection
@@ -12,4 +12,4 @@ if ($conn->connect_error) {
   die('Connection failed: ' . $conn->connect_error);
 }
 
-// echo 'Connected successfully';
+//echo 'Connected successfully';

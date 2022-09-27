@@ -4,7 +4,7 @@
 
 // Echo - Output strings, numbers, html, etc
 echo 'Hello';
-echo 123;
+echo 123457;
 echo '<h1>Hello</h1>';
 
 // print - Similar to echo, but a bit slower
